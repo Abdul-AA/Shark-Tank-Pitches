@@ -15,4 +15,4 @@ predict business success on the platform, while also conducting exploratory data
 to extract actionable insights from past pitches, thereby providing a valuable resource for aspiring
 entrepreneurs.
 
-Full Report: https://github.com/Abdul-AA/Shark-Tank-Pitches/blob/60837b6067d6354f4246fef628a98cbc6d6f4005/Report.pdf
+Full Report: https://github.com/Abdul-AA/Shark-Tank-Pitches/blob/6d7a08b1fa0fdc35d6b1ae38de1a47a97cdbb259/Project%20Report.pdf

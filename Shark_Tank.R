@@ -1,7 +1,7 @@
 df=read.csv("shark_tank.csv")
 
 # Data Pre-processing
-# converting the booleans v to numeric; 1 represents True and 0 represents False
+# converting the booleans to numeric; 1 represents True and 0 represents False
 df$deal=ifelse(df$deal==TRUE,1,0)
 df$Multiple.Entreprenuers=ifelse(df$Multiple.Entreprenuers==TRUE,1,0)
 

@@ -1,5 +1,7 @@
 # Shark-Tank-Pitches
 
+## Context
+
 Navigating the realm of innovative business ideas is a daunting task, with the elusive nature of groundbreaking
 concepts. This challenge is vividly illustrated on the popular platform, Shark Tank, where
 aspiring entrepreneurs present their ventures to a panel of investors, known as Sharks. The dynamic
@@ -14,5 +16,6 @@ while optimizing their use of time and resources.This project aims to develop a 
 predict business success on the platform, while also conducting exploratory data analysis and clustering
 to extract actionable insights from past pitches, thereby providing a valuable resource for aspiring
 entrepreneurs.
+
 
 Full Report: https://github.com/Abdul-AA/Shark-Tank-Pitches/blob/6d7a08b1fa0fdc35d6b1ae38de1a47a97cdbb259/Project%20Report.pdf

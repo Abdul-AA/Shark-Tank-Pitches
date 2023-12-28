@@ -1,14 +1,15 @@
 df=read.csv("shark_tank.csv")
 
 # Data Pre-processing
-
+# converting the booleans v to numeric; 1 represents True and 0 represents False
 df$deal=ifelse(df$deal==TRUE,1,0)
+df$Multiple.Entreprenuers=ifelse(df$Multiple.Entreprenuers==TRUE,1,0)
+
+# Converting all categorical variables to factors
 df$deal=as.factor(df$deal)
 
 
-df$Multiple.Entreprenuers=ifelse(df$Multiple.Entreprenuers==TRUE,1,0)
 df$Multiple.Entreprenuers=as.factor(df$Multiple.Entreprenuers)
-
 df$shark1=as.factor(df$shark1)
 df$shark2=as.factor(df$shark2)
 df$shark3=as.factor(df$shark3)

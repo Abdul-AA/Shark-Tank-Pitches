@@ -18,4 +18,4 @@ to extract actionable insights from past pitches, thereby providing a valuable r
 entrepreneurs.
 
 
-Full Report: https://github.com/Abdul-AA/Shark-Tank-Pitches/blob/6d7a08b1fa0fdc35d6b1ae38de1a47a97cdbb259/Project%20Report.pdf
+[Full Report](https://github.com/Abdul-AA/Shark-Tank-Pitches/blob/6d7a08b1fa0fdc35d6b1ae38de1a47a97cdbb259/Project%20Report.pdf)
